@@ -1,0 +1,15 @@
+.product {
+  border-radius: 7px;
+  border-style: solid;
+  box-sizing: border-box;
+  padding: 0px 10px 10px 10px;
+  margin: 10px 0px 10px 0px;
+  border-width: 3px;
+  border-color: rgb(2, 150, 200);
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
